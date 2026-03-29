@@ -14,4 +14,4 @@ Website affiliate untuk produk sepatu kulit dengan tampilan modern dan responsiv
 - Tailwind CSS
 
 ## Demo
-https://your-demo-link.vercel.app
+https://affiliate-shop-git-vercel-re-f01ddb-stefanus2814-7457s-projects.vercel.app/contact
